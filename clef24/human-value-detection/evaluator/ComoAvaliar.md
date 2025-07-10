@@ -63,10 +63,29 @@ As colunas de identificação são `Text-ID` e `Sentence-ID`. As demais colunas 
 A maneira recomendada para executar o avaliador é via Docker, o que garante que todas as dependências estejam corretamente instaladas.
 
 **Comando de Execução:**
+```bash
+# build
+docker build -f Dockerfile_predict -t valueeval24-arthur-schopenhauer-ensemble:1.0.0 .
 
+# run
+docker run --rm -v //c/Users/dayan/OneDrive/Documents/PLN/touche-code/valueeval24/test:/dataset -v //c/Users/dayan/OneDrive/Documents/PLN/touche-code/valueeval24/output:/output valueeval24-arthur-schopenhauer-ensemble:1.0.0
+
+# view results
+cat output/run.tsv
+```
 ```bash
 docker run --rm -v //c/Users/dayan/OneDrive/Documents/PLN/touche-code/valueeval24/test:/labels -v //c/Users/dayan/OneDrive/Documents/PLN/touche-code/valueeval24/run:/run -v //c/Users/dayan/OneDrive/Documents/PLN/touche-code/valueeval24/output:/output webis/touche-human-value-detection-evaluator:1.0.2 --inputDataset /labels --inputRun /run --outputDataset /output
 ```
+
+```bash
+docker run --rm -v //c/Users/dayan/OneDrive/Documents/PLN/touche-code/valueeval24/test-english:/labels -v //c/Users/dayan/OneDrive/Documents/PLN/touche-code/valueeval24/run:/run -v //c/Users/dayan/OneDrive/Documents/PLN/touche-code/valueeval24/output:/output webis/touche-human-value-detection-evaluator:1.0.2 --inputDataset /labels --inputRun /run --outputDataset /output
+```
+
+```bash 
+bash valueeval24/output/prototext-conversion/proto2tsv.sh dayana valueeval24/test-english/labels.tsv HoA 1 valueeval24/output/evaluation.prototext > output.tsv
+
+```
+
 
 -   **`/caminho/para/seu/dataset`**: O caminho absoluto para o diretório que contém `labels.tsv` e `sentences.tsv`.
 -   **`/caminho/para/sua/run`**: O caminho absoluto para o diretório que contém seu arquivo `run.tsv`.
