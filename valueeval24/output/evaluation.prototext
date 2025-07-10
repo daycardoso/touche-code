@@ -1,0 +1,960 @@
+measure {
+ key: "Precision (Subtask 1)"
+ value: "0.03048650523281229"
+}
+measure {
+ key: "Recall (Subtask 1)"
+ value: "1.0"
+}
+measure {
+ key: "F1 (Subtask 1)"
+ value: "0.05916914986853639"
+}
+measure {
+ key: "Precision (Subtask 2 - overall)"
+ value: "0.6348905972797162"
+}
+measure {
+ key: "Recall (Subtask 2 - overall)"
+ value: "0.5886610373944512"
+}
+measure {
+ key: "F1 (Subtask 2 - overall)"
+ value: "0.6109024695573005"
+}
+measure {
+ key: "Precision (Subtask 2 - attained)"
+ value: "0.5606702144612022"
+}
+measure {
+ key: "Recall (Subtask 2 - attained)"
+ value: "0.6530488678331781"
+}
+measure {
+ key: "F1 (Subtask 2 - attained)"
+ value: "0.6033439765806812"
+}
+measure {
+ key: "Precision (Subtask 2 - constrained)"
+ value: "0.1516592233006052"
+}
+measure {
+ key: "Recall (Subtask 2 - constrained)"
+ value: "0.3406722995607831"
+}
+measure {
+ key: "F1 (Subtask 2 - constrained)"
+ value: "0.2098833568532869"
+}
+measure {
+ key: "Precision Self-direction: thought"
+ value: "0.011737250326034732"
+}
+measure {
+ key: "Recall Self-direction: thought"
+ value: "1.0"
+}
+measure {
+ key: "F1 Self-direction: thought"
+ value: "0.023202170963364997"
+}
+measure {
+ key: "Precision Self-direction: action"
+ value: "0.03514311208730867"
+}
+measure {
+ key: "Recall Self-direction: action"
+ value: "1.0"
+}
+measure {
+ key: "F1 Self-direction: action"
+ value: "0.06790000663086003"
+}
+measure {
+ key: "Precision Stimulation"
+ value: "0.02546502848513968"
+}
+measure {
+ key: "Recall Stimulation"
+ value: "1.0"
+}
+measure {
+ key: "F1 Stimulation"
+ value: "0.04966532797858099"
+}
+measure {
+ key: "Precision Hedonism"
+ value: "0.008579861349440594"
+}
+measure {
+ key: "Recall Hedonism"
+ value: "1.0"
+}
+measure {
+ key: "F1 Hedonism"
+ value: "0.017013747107662996"
+}
+measure {
+ key: "Precision Achievement"
+ value: "0.06253002951472304"
+}
+measure {
+ key: "Recall Achievement"
+ value: "1.0"
+}
+measure {
+ key: "F1 Achievement"
+ value: "0.11770025839793281"
+}
+measure {
+ key: "Precision Power: dominance"
+ value: "0.04331114009197611"
+}
+measure {
+ key: "Recall Power: dominance"
+ value: "1.0"
+}
+measure {
+ key: "F1 Power: dominance"
+ value: "0.08302631578947368"
+}
+measure {
+ key: "Precision Power: resources"
+ value: "0.05525430709039742"
+}
+measure {
+ key: "Recall Power: resources"
+ value: "1.0"
+}
+measure {
+ key: "F1 Power: resources"
+ value: "0.1047222583582672"
+}
+measure {
+ key: "Precision Face"
+ value: "0.018326583842405108"
+}
+measure {
+ key: "Recall Face"
+ value: "1.0"
+}
+measure {
+ key: "F1 Face"
+ value: "0.03599352925316797"
+}
+measure {
+ key: "Precision Security: personal"
+ value: "0.02416088956002471"
+}
+measure {
+ key: "Recall Security: personal"
+ value: "1.0"
+}
+measure {
+ key: "F1 Security: personal"
+ value: "0.04718182427451243"
+}
+measure {
+ key: "Precision Security: societal"
+ value: "0.07900336330564899"
+}
+measure {
+ key: "Recall Security: societal"
+ value: "1.0"
+}
+measure {
+ key: "F1 Security: societal"
+ value: "0.14643765903307887"
+}
+measure {
+ key: "Precision Tradition"
+ value: "0.01345322259592285"
+}
+measure {
+ key: "Recall Tradition"
+ value: "1.0"
+}
+measure {
+ key: "F1 Tradition"
+ value: "0.02654927192685405"
+}
+measure {
+ key: "Precision Conformity: rules"
+ value: "0.06253002951472304"
+}
+measure {
+ key: "Recall Conformity: rules"
+ value: "1.0"
+}
+measure {
+ key: "F1 Conformity: rules"
+ value: "0.11770025839793281"
+}
+measure {
+ key: "Precision Conformity: interpersonal"
+ value: "0.013384583705127325"
+}
+measure {
+ key: "Recall Conformity: interpersonal"
+ value: "1.0"
+}
+measure {
+ key: "F1 Conformity: interpersonal"
+ value: "0.026415605526957462"
+}
+measure {
+ key: "Precision Humility"
+ value: "0.0020591667238657424"
+}
+measure {
+ key: "Recall Humility"
+ value: "1.0"
+}
+measure {
+ key: "F1 Humility"
+ value: "0.00410987053907802"
+}
+measure {
+ key: "Precision Benevolence: caring"
+ value: "0.022239000617750016"
+}
+measure {
+ key: "Recall Benevolence: caring"
+ value: "1.0"
+}
+measure {
+ key: "F1 Benevolence: caring"
+ value: "0.04351037400120862"
+}
+measure {
+ key: "Precision Benevolence: dependability"
+ value: "0.019768000549111125"
+}
+measure {
+ key: "Recall Benevolence: dependability"
+ value: "1.0"
+}
+measure {
+ key: "F1 Benevolence: dependability"
+ value: "0.03876960355388032"
+}
+measure {
+ key: "Precision Universalism: concern"
+ value: "0.05044958473471069"
+}
+measure {
+ key: "Recall Universalism: concern"
+ value: "1.0"
+}
+measure {
+ key: "F1 Universalism: concern"
+ value: "0.09605331939362259"
+}
+measure {
+ key: "Precision Universalism: nature"
+ value: "0.02011119500308875"
+}
+measure {
+ key: "Recall Universalism: nature"
+ value: "1.0"
+}
+measure {
+ key: "F1 Universalism: nature"
+ value: "0.039429417305880766"
+}
+measure {
+ key: "Precision Universalism: tolerance"
+ value: "0.011737250326034732"
+}
+measure {
+ key: "Recall Universalism: tolerance"
+ value: "1.0"
+}
+measure {
+ key: "F1 Universalism: tolerance"
+ value: "0.023202170963364997"
+}
+measure {
+ key: "Precision Self-direction: thought (Subtask 2 - overall)"
+ value: "0.8362573099415205"
+}
+measure {
+ key: "Recall Self-direction: thought (Subtask 2 - overall)"
+ value: "0.7944444444444444"
+}
+measure {
+ key: "F1 Self-direction: thought (Subtask 2 - overall)"
+ value: "0.8148148148148147"
+}
+measure {
+ key: "Precision Self-direction: action (Subtask 2 - overall)"
+ value: "0.255859375"
+}
+measure {
+ key: "Recall Self-direction: action (Subtask 2 - overall)"
+ value: "0.24670433145009416"
+}
+measure {
+ key: "F1 Self-direction: action (Subtask 2 - overall)"
+ value: "0.2511984659635666"
+}
+measure {
+ key: "Precision Stimulation (Subtask 2 - overall)"
+ value: "0.8787061994609164"
+}
+measure {
+ key: "Recall Stimulation (Subtask 2 - overall)"
+ value: "0.7799043062200957"
+}
+measure {
+ key: "F1 Stimulation (Subtask 2 - overall)"
+ value: "0.826362484157161"
+}
+measure {
+ key: "Precision Hedonism (Subtask 2 - overall)"
+ value: "0.816"
+}
+measure {
+ key: "Recall Hedonism (Subtask 2 - overall)"
+ value: "0.7786259541984732"
+}
+measure {
+ key: "F1 Hedonism (Subtask 2 - overall)"
+ value: "0.7968749999999999"
+}
+measure {
+ key: "Precision Achievement (Subtask 2 - overall)"
+ value: "0.7233809001097695"
+}
+measure {
+ key: "Recall Achievement (Subtask 2 - overall)"
+ value: "0.6843198338525441"
+}
+measure {
+ key: "F1 Achievement (Subtask 2 - overall)"
+ value: "0.703308431163287"
+}
+measure {
+ key: "Precision Power: dominance (Subtask 2 - overall)"
+ value: "0.8193343898573693"
+}
+measure {
+ key: "Recall Power: dominance (Subtask 2 - overall)"
+ value: "0.7121212121212122"
+}
+measure {
+ key: "F1 Power: dominance (Subtask 2 - overall)"
+ value: "0.7619749447310242"
+}
+measure {
+ key: "Precision Power: resources (Subtask 2 - overall)"
+ value: "0.6695652173913044"
+}
+measure {
+ key: "Recall Power: resources (Subtask 2 - overall)"
+ value: "0.592959295929593"
+}
+measure {
+ key: "F1 Power: resources (Subtask 2 - overall)"
+ value: "0.6289381563593932"
+}
+measure {
+ key: "Precision Face (Subtask 2 - overall)"
+ value: "0.4740740740740741"
+}
+measure {
+ key: "Recall Face (Subtask 2 - overall)"
+ value: "0.4555160142348754"
+}
+measure {
+ key: "F1 Face (Subtask 2 - overall)"
+ value: "0.4646098003629764"
+}
+measure {
+ key: "Precision Security: personal (Subtask 2 - overall)"
+ value: "0.3380681818181818"
+}
+measure {
+ key: "Recall Security: personal (Subtask 2 - overall)"
+ value: "0.31733333333333336"
+}
+measure {
+ key: "F1 Security: personal (Subtask 2 - overall)"
+ value: "0.3273727647867951"
+}
+measure {
+ key: "Precision Security: societal (Subtask 2 - overall)"
+ value: "0.6125108601216334"
+}
+measure {
+ key: "Recall Security: societal (Subtask 2 - overall)"
+ value: "0.5676328502415459"
+}
+measure {
+ key: "F1 Security: societal (Subtask 2 - overall)"
+ value: "0.5892185541161722"
+}
+measure {
+ key: "Precision Tradition (Subtask 2 - overall)"
+ value: "0.8826530612244898"
+}
+measure {
+ key: "Recall Tradition (Subtask 2 - overall)"
+ value: "0.8160377358490566"
+}
+measure {
+ key: "F1 Tradition (Subtask 2 - overall)"
+ value: "0.8480392156862746"
+}
+measure {
+ key: "Precision Conformity: rules (Subtask 2 - overall)"
+ value: "0.6586169045005489"
+}
+measure {
+ key: "Recall Conformity: rules (Subtask 2 - overall)"
+ value: "0.6012024048096193"
+}
+measure {
+ key: "F1 Conformity: rules (Subtask 2 - overall)"
+ value: "0.6286013619696177"
+}
+measure {
+ key: "Precision Conformity: interpersonal (Subtask 2 - overall)"
+ value: "0.5357142857142857"
+}
+measure {
+ key: "Recall Conformity: interpersonal (Subtask 2 - overall)"
+ value: "0.5172413793103449"
+}
+measure {
+ key: "F1 Conformity: interpersonal (Subtask 2 - overall)"
+ value: "0.5263157894736843"
+}
+measure {
+ key: "Precision Humility (Subtask 2 - overall)"
+ value: "0.8666666666666667"
+}
+measure {
+ key: "Recall Humility (Subtask 2 - overall)"
+ value: "0.8125"
+}
+measure {
+ key: "F1 Humility (Subtask 2 - overall)"
+ value: "0.8387096774193549"
+}
+measure {
+ key: "Precision Benevolence: caring (Subtask 2 - overall)"
+ value: "0.9228395061728395"
+}
+measure {
+ key: "Recall Benevolence: caring (Subtask 2 - overall)"
+ value: "0.8742690058479532"
+}
+measure {
+ key: "F1 Benevolence: caring (Subtask 2 - overall)"
+ value: "0.897897897897898"
+}
+measure {
+ key: "Precision Benevolence: dependability (Subtask 2 - overall)"
+ value: "0.25"
+}
+measure {
+ key: "Recall Benevolence: dependability (Subtask 2 - overall)"
+ value: "0.23529411764705882"
+}
+measure {
+ key: "F1 Benevolence: dependability (Subtask 2 - overall)"
+ value: "0.24242424242424243"
+}
+measure {
+ key: "Precision Universalism: concern (Subtask 2 - overall)"
+ value: "0.7061224489795919"
+}
+measure {
+ key: "Recall Universalism: concern (Subtask 2 - overall)"
+ value: "0.667953667953668"
+}
+measure {
+ key: "F1 Universalism: concern (Subtask 2 - overall)"
+ value: "0.6865079365079365"
+}
+measure {
+ key: "Precision Universalism: nature (Subtask 2 - overall)"
+ value: "0.4262295081967213"
+}
+measure {
+ key: "Recall Universalism: nature (Subtask 2 - overall)"
+ value: "0.4166666666666667"
+}
+measure {
+ key: "F1 Universalism: nature (Subtask 2 - overall)"
+ value: "0.4213938411669368"
+}
+measure {
+ key: "Precision Universalism: tolerance (Subtask 2 - overall)"
+ value: "0.43859649122807015"
+}
+measure {
+ key: "Recall Universalism: tolerance (Subtask 2 - overall)"
+ value: "0.4143646408839779"
+}
+measure {
+ key: "F1 Universalism: tolerance (Subtask 2 - overall)"
+ value: "0.4261363636363636"
+}
+measure {
+ key: "Precision Self-direction: thought attained"
+ value: "0.8362573099415205"
+}
+measure {
+ key: "Recall Self-direction: thought attained"
+ value: "1.0"
+}
+measure {
+ key: "F1 Self-direction: thought attained"
+ value: "0.910828025477707"
+}
+measure {
+ key: "Precision Self-direction: action attained"
+ value: "0"
+}
+measure {
+ key: "Recall Self-direction: action attained"
+ value: "0.0"
+}
+measure {
+ key: "F1 Self-direction: action attained"
+ value: "0.0"
+}
+measure {
+ key: "Precision Stimulation attained"
+ value: "0.8787061994609164"
+}
+measure {
+ key: "Recall Stimulation attained"
+ value: "1.0"
+}
+measure {
+ key: "F1 Stimulation attained"
+ value: "0.9354375896700143"
+}
+measure {
+ key: "Precision Hedonism attained"
+ value: "0.816"
+}
+measure {
+ key: "Recall Hedonism attained"
+ value: "1.0"
+}
+measure {
+ key: "F1 Hedonism attained"
+ value: "0.8986784140969163"
+}
+measure {
+ key: "Precision Achievement attained"
+ value: "0.7233809001097695"
+}
+measure {
+ key: "Recall Achievement attained"
+ value: "1.0"
+}
+measure {
+ key: "F1 Achievement attained"
+ value: "0.8394904458598726"
+}
+measure {
+ key: "Precision Power: dominance attained"
+ value: "0.8193343898573693"
+}
+measure {
+ key: "Recall Power: dominance attained"
+ value: "1.0"
+}
+measure {
+ key: "F1 Power: dominance attained"
+ value: "0.9006968641114983"
+}
+measure {
+ key: "Precision Power: resources attained"
+ value: "0.6695652173913044"
+}
+measure {
+ key: "Recall Power: resources attained"
+ value: "1.0"
+}
+measure {
+ key: "F1 Power: resources attained"
+ value: "0.8020833333333333"
+}
+measure {
+ key: "Precision Face attained"
+ value: "0.6363636363636364"
+}
+measure {
+ key: "Recall Face attained"
+ value: "0.04487179487179487"
+}
+measure {
+ key: "F1 Face attained"
+ value: "0.08383233532934133"
+}
+measure {
+ key: "Precision Security: personal attained"
+ value: "0.3380681818181818"
+}
+measure {
+ key: "Recall Security: personal attained"
+ value: "1.0"
+}
+measure {
+ key: "F1 Security: personal attained"
+ value: "0.505307855626327"
+}
+measure {
+ key: "Precision Security: societal attained"
+ value: "0"
+}
+measure {
+ key: "Recall Security: societal attained"
+ value: "0.0"
+}
+measure {
+ key: "F1 Security: societal attained"
+ value: "0.0"
+}
+measure {
+ key: "Precision Tradition attained"
+ value: "0.8826530612244898"
+}
+measure {
+ key: "Recall Tradition attained"
+ value: "1.0"
+}
+measure {
+ key: "F1 Tradition attained"
+ value: "0.9376693766937669"
+}
+measure {
+ key: "Precision Conformity: rules attained"
+ value: "0.6593406593406593"
+}
+measure {
+ key: "Recall Conformity: rules attained"
+ value: "0.9983361064891847"
+}
+measure {
+ key: "F1 Conformity: rules attained"
+ value: "0.7941760423560555"
+}
+measure {
+ key: "Precision Conformity: interpersonal attained"
+ value: "0.23076923076923078"
+}
+measure {
+ key: "Recall Conformity: interpersonal attained"
+ value: "0.03296703296703297"
+}
+measure {
+ key: "F1 Conformity: interpersonal attained"
+ value: "0.057692307692307696"
+}
+measure {
+ key: "Precision Humility attained"
+ value: "0.8666666666666667"
+}
+measure {
+ key: "Recall Humility attained"
+ value: "1.0"
+}
+measure {
+ key: "F1 Humility attained"
+ value: "0.9285714285714286"
+}
+measure {
+ key: "Precision Benevolence: caring attained"
+ value: "0.9228395061728395"
+}
+measure {
+ key: "Recall Benevolence: caring attained"
+ value: "1.0"
+}
+measure {
+ key: "F1 Benevolence: caring attained"
+ value: "0.9598715890850723"
+}
+measure {
+ key: "Precision Benevolence: dependability attained"
+ value: "0"
+}
+measure {
+ key: "Recall Benevolence: dependability attained"
+ value: "0.0"
+}
+measure {
+ key: "F1 Benevolence: dependability attained"
+ value: "0.0"
+}
+measure {
+ key: "Precision Universalism: concern attained"
+ value: "0.7061224489795919"
+}
+measure {
+ key: "Recall Universalism: concern attained"
+ value: "1.0"
+}
+measure {
+ key: "F1 Universalism: concern attained"
+ value: "0.8277511961722488"
+}
+measure {
+ key: "Precision Universalism: nature attained"
+ value: "0.6666666666666666"
+}
+measure {
+ key: "Recall Universalism: nature attained"
+ value: "0.33175355450236965"
+}
+measure {
+ key: "F1 Universalism: nature attained"
+ value: "0.4430379746835443"
+}
+measure {
+ key: "Precision Universalism: tolerance attained"
+ value: "0"
+}
+measure {
+ key: "Recall Universalism: tolerance attained"
+ value: "0.0"
+}
+measure {
+ key: "F1 Universalism: tolerance attained"
+ value: "0.0"
+}
+measure {
+ key: "Precision Self-direction: thought constrained"
+ value: "0"
+}
+measure {
+ key: "Recall Self-direction: thought constrained"
+ value: "0.0"
+}
+measure {
+ key: "F1 Self-direction: thought constrained"
+ value: "0.0"
+}
+measure {
+ key: "Precision Self-direction: action constrained"
+ value: "0.255859375"
+}
+measure {
+ key: "Recall Self-direction: action constrained"
+ value: "1.0"
+}
+measure {
+ key: "F1 Self-direction: action constrained"
+ value: "0.40746500777604977"
+}
+measure {
+ key: "Precision Stimulation constrained"
+ value: "0"
+}
+measure {
+ key: "Recall Stimulation constrained"
+ value: "0.0"
+}
+measure {
+ key: "F1 Stimulation constrained"
+ value: "0.0"
+}
+measure {
+ key: "Precision Hedonism constrained"
+ value: "0"
+}
+measure {
+ key: "Recall Hedonism constrained"
+ value: "0.0"
+}
+measure {
+ key: "F1 Hedonism constrained"
+ value: "0.0"
+}
+measure {
+ key: "Precision Achievement constrained"
+ value: "0"
+}
+measure {
+ key: "Recall Achievement constrained"
+ value: "0.0"
+}
+measure {
+ key: "F1 Achievement constrained"
+ value: "0.0"
+}
+measure {
+ key: "Precision Power: dominance constrained"
+ value: "0"
+}
+measure {
+ key: "Recall Power: dominance constrained"
+ value: "0.0"
+}
+measure {
+ key: "F1 Power: dominance constrained"
+ value: "0.0"
+}
+measure {
+ key: "Precision Power: resources constrained"
+ value: "0"
+}
+measure {
+ key: "Recall Power: resources constrained"
+ value: "0.0"
+}
+measure {
+ key: "F1 Power: resources constrained"
+ value: "0.0"
+}
+measure {
+ key: "Precision Face constrained"
+ value: "0.4671814671814672"
+}
+measure {
+ key: "Recall Face constrained"
+ value: "0.968"
+}
+measure {
+ key: "F1 Face constrained"
+ value: "0.6302083333333334"
+}
+measure {
+ key: "Precision Security: personal constrained"
+ value: "0"
+}
+measure {
+ key: "Recall Security: personal constrained"
+ value: "0.0"
+}
+measure {
+ key: "F1 Security: personal constrained"
+ value: "0.0"
+}
+measure {
+ key: "Precision Security: societal constrained"
+ value: "0.6125108601216334"
+}
+measure {
+ key: "Recall Security: societal constrained"
+ value: "1.0"
+}
+measure {
+ key: "F1 Security: societal constrained"
+ value: "0.759698275862069"
+}
+measure {
+ key: "Precision Tradition constrained"
+ value: "0"
+}
+measure {
+ key: "Recall Tradition constrained"
+ value: "0.0"
+}
+measure {
+ key: "F1 Tradition constrained"
+ value: "0.0"
+}
+measure {
+ key: "Precision Conformity: rules constrained"
+ value: "0.0"
+}
+measure {
+ key: "Recall Conformity: rules constrained"
+ value: "0.0"
+}
+measure {
+ key: "F1 Conformity: rules constrained"
+ value: "0.0"
+}
+measure {
+ key: "Precision Conformity: interpersonal constrained"
+ value: "0.5573770491803278"
+}
+measure {
+ key: "Recall Conformity: interpersonal constrained"
+ value: "0.9107142857142857"
+}
+measure {
+ key: "F1 Conformity: interpersonal constrained"
+ value: "0.6915254237288134"
+}
+measure {
+ key: "Precision Humility constrained"
+ value: "0"
+}
+measure {
+ key: "Recall Humility constrained"
+ value: "0.0"
+}
+measure {
+ key: "F1 Humility constrained"
+ value: "0.0"
+}
+measure {
+ key: "Precision Benevolence: caring constrained"
+ value: "0"
+}
+measure {
+ key: "Recall Benevolence: caring constrained"
+ value: "0.0"
+}
+measure {
+ key: "F1 Benevolence: caring constrained"
+ value: "0.0"
+}
+measure {
+ key: "Precision Benevolence: dependability constrained"
+ value: "0.25"
+}
+measure {
+ key: "Recall Benevolence: dependability constrained"
+ value: "1.0"
+}
+measure {
+ key: "F1 Benevolence: dependability constrained"
+ value: "0.4"
+}
+measure {
+ key: "Precision Universalism: concern constrained"
+ value: "0"
+}
+measure {
+ key: "Recall Universalism: concern constrained"
+ value: "0.0"
+}
+measure {
+ key: "F1 Universalism: concern constrained"
+ value: "0.0"
+}
+measure {
+ key: "Precision Universalism: nature constrained"
+ value: "0.3"
+}
+measure {
+ key: "Recall Universalism: nature constrained"
+ value: "0.594059405940594"
+}
+measure {
+ key: "F1 Universalism: nature constrained"
+ value: "0.39867109634551495"
+}
+measure {
+ key: "Precision Universalism: tolerance constrained"
+ value: "0.43859649122807015"
+}
+measure {
+ key: "Recall Universalism: tolerance constrained"
+ value: "1.0"
+}
+measure {
+ key: "F1 Universalism: tolerance constrained"
+ value: "0.6097560975609756"
+}
