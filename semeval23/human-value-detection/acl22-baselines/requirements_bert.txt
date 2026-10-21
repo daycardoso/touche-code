@@ -1,5 +1,5 @@
-transformers==4.9.1
-datasets==1.10.2
+transformers==5.10.1
+datasets==5.0.1
 scikit-learn
 pandas
 torch
